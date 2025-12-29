@@ -2,4 +2,5 @@ server:
   port: 8080
 
 app:
-  featureX: true
+  name: Account Service
+  message: Hello from Config Server
